@@ -1,0 +1,66 @@
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+
+.Login {
+width: 300px;
+padding: 20px;
+border-radius: 20px;
+margin: 0 auto;
+background: linear-gradient(to bottom, #bd09b7, #6b4cf5);
+}
+
+h3 {
+text-align: left;
+color: white;
+
+}
+
+ #genero1 {
+display: block;
+margin-bottom: 10px;
+color: white;
+padding: 7px;
+width: 290px;
+}
+
+.text {
+    width: 100%;
+    padding: 10px; 
+    margin-bottom: 20px;
+    border-radius: 5px; 
+    border: none;
+
+}
+input {
+
+    background-color: ·#FFF;
+    color: #6b4cf5;
+    border-radius: 5px;
+    padding: 7px;
+    width: 280px;
+    font-size: 90%;
+    cursor: pointer;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    color: #FFF;
+}
+label {
+    display: block;
+    margin-bottom: 10px;
+    color: white;
+  }
+
+  .button {
+
+    padding: 5px;
+
+  }
+
+  p {
+
+    text-align: center; 
+    color: #FFF;
+    font-size: 30px;
+  }
